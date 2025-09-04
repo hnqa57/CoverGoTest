@@ -1,0 +1,20 @@
+# Core dependencies for RAG pipeline
+langchain==0.1.17
+langchain-community==0.0.38
+langchain-openai==0.1.7
+faiss-cpu==1.8.0.post1
+
+# PDF processing
+pypdf==4.2.0
+
+# OCR dependencies
+pdf2image==1.17.0
+pytesseract==0.3.13
+Pillow==10.4.0
+
+# Environment and utilities
+python-dotenv==1.0.1
+
+sentence-transformers==3.0.1
+
+streamlit==1.38.0
